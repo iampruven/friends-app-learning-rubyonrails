@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning ruby on rails with [`freecodecamp`](#https://www.youtube.com/watch?v=fmyvWz5TUWg&t=3803s)
+## Friend's App Features
+- keep track of friends + info
+- create list of friends w/ their info
+- styled with bootstrap
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
